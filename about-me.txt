@@ -1,0 +1,3 @@
+Hi, my name is Muhammad Armughan Suri.
+I am a student of BBA 1-A, Roll No. 2602667.
+I am learning Git and GitHub in my AICT Lab course.
